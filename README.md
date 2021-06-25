@@ -8,4 +8,4 @@ A NLP and Machine Learning based web application used for detecting fake news. U
 <b>Dataset Link:</b> https://www.kaggle.com/c/fake-news/data
 
 ## Live Video
-![Live Video](https://github.com/venugopalkadamba/Fake_News_Detector/blob/master/live_video.gif)
+![Live Video](https://github.com/ameerkings123/FakeNews_Detector/blob/main/GIF-210625_184637.gif)
