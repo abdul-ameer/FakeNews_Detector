@@ -40,7 +40,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 
 ├── template
-│   ├── index.html
+│   ├── home.html
 ├── Procfile
 ├── README.md
 ├── app.py
