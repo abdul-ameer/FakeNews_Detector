@@ -37,15 +37,15 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Directory Tree 
 ```
-├── static 
-│   ├── css
+
+
 ├── template
 │   ├── index.html
 ├── Procfile
 ├── README.md
 ├── app.py
-├── model.py
-├── model.pkl
+├── Fake_News_Lstm.ipynb
+├── xgb_fake_news_predictor.pkl
 ├── requirements.txt
 ```
 
