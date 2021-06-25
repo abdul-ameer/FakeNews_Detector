@@ -12,9 +12,9 @@
 
 
 ## Demo
-Link: [https://black-friday-sales.herokuapp.com/](https://black-friday-sales.herokuapp.com/)
+Link: [https://naa-fakenews-detector.herokuapp.com/](https://naa-fakenews-detector.herokuapp.com/)
 
-[![](https://github.com/ameerkings123/Black_Friday_Sales/blob/master/Readme/WebApp.gif)](https://black-friday-sales.herokuapp.com/)
+[![](https://github.com/ameerkings123/Black_Friday_Sales/blob/master/Readme/WebApp.gif)](https://naa-fakenews-detector.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts price of Black Friday.
