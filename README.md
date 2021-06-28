@@ -17,7 +17,7 @@ Link: [https://naa-fakenews-detector.herokuapp.com/](https://naa-fakenews-detect
 [![](https://github.com/ameerkings123/FakeNews_Detector/blob/main/GIF-210625_184637.gif)](https://naa-fakenews-detector.herokuapp.com/)
 
 ## Overview
-This is a Flask web app which predicts price of Black Friday.
+This is a Flask web app which predicts Fake 
 
 ## Motivation
 What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
